@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Calorie Tracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="remove">Törlés</string>
+    <string name="launch_today">Today</string>
+    <string name="launch_previous">Previous days</string>
+    <string name="summed_calories_today">Summed calories today:</string>
+    <string name="today_calorie_sum_value">0</string>
+    <string name="new_calorie_hint">(e.g. : breakfast)</string>
+    <string name="new_calorie_label">Label</string>
+    <string name="new_calorie_amount">Calorie amount</string>
+    <string name="exercise_type">Exercise type</string>
+    <string name="exercise_label">Label</string>
+    <string name="exercise_label_hint">(e.g. : morning jog)</string>
+    <string name="exercise_time">Exercise length in minutes</string>
+
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="dialog_calorie_intake_title">Add calorie intake</string>
+    <string name="dialog_exercise_title">Add exercise</string>
+
+    <string name="dialog_exercise_time_not_given">Please set a time</string>
+    <string name="dialog_new_calorie_amount_not_given">Please set an amount</string>
+
+
+
+    <string-array name="exercises_array">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+    </string-array>
+
+</resources>

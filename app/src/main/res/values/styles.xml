@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="launch_text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/launch_text</item>
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="summed_calories" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/summed_calories</item>
+    </style>
+
+
+    <style name="previous_days" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
